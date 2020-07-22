@@ -1,8 +1,0 @@
-{
-  "python.pythonPath": "C:\\Users\\Nigel\\.virtualenvs\\epi-py-k31eUuun\\Scripts\\python.exe",
-  "files.exclude": {
-    "**/__init__.py": true,
-    "**/__pycache__": true,
-    "**/.pytest_cache": true
-  }
-}
