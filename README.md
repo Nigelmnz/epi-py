@@ -1,7 +1,7 @@
 # epi-py
 
 These are my current solutions to [Elements of Programming Interviews][1], written in Python.
-A disjoint set of problems done in Typescript/Javascript can be found here: [EPI-js][46]
+A disjoint set of problems done in Typescript/Javascript can be found here: [EPI-js][2]
 
 ### How to run
 
@@ -141,5 +141,5 @@ ptw
 
 [1]: http://elementsofprogramminginterviews.com
 [2]: https://github.com/Nigelmnz/epi-py
-[3]: src/ch04-ptypes/p04-07.py
-[3]: src/ch04-ptypes/tests/test_p04-07.py
+[3]: src/ch04_ptypes/p04_07.py
+[4]: src/ch04_ptypes/tests/test_p04_07.py
