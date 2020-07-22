@@ -35,7 +35,7 @@ def power_recur(x: float, y: int) -> float:
 def power(x: float, y: int) -> float:
     """
         Solution C: Same idea as before, but implemented iteratively.
-        Runes in O(log n)
+        Runs in O(log n)
     """
     result = 1
     while y > 0:
