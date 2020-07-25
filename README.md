@@ -30,13 +30,15 @@ ptw
 
 ### Arrays
 
-| Problem | Test  |
-| ------- | :---: |
+| Problem                   |    Test    |
+| ------------------------- | :--------: |
+| [Find a Random Subset][5] | [tests][6] |
 
 ### Strings
 
-| Problem | Test  |
-| ------- | :---: |
+| Problem              |    Test    |
+| -------------------- | :--------: |
+| [Base Conversion][7] | [tests][8] |
 
 
 ## Linked Lists
@@ -143,3 +145,7 @@ ptw
 [2]: https://github.com/Nigelmnz/epi-py
 [3]: src/ch04_ptypes/p04_07.py
 [4]: src/ch04_ptypes/tests/test_p04_07.py
+[5]: src/ch04_ptypes/p05_12.py
+[6]: src/ch04_ptypes/tests/test_p05_12.py
+[7]: src/ch04_ptypes/p06_02.py
+[8]: src/ch04_ptypes/tests/test_p06_02.py
