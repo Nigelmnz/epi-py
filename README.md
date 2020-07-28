@@ -30,9 +30,10 @@ ptw
 
 ### Arrays
 
-| Problem                   |    Test    |
-| ------------------------- | :--------: |
-| [Find a Random Subset][5] | [tests][6] |
+| Problem                           |    Test     |
+| --------------------------------- | :---------: |
+| [Compute the Next Permutation][9] | [tests][10] |
+| [Find a Random Subset][5]         | [tests][6]  |
 
 ### Strings
 
@@ -145,7 +146,9 @@ ptw
 [2]: https://github.com/Nigelmnz/epi-py
 [3]: src/ch04_ptypes/p04_07.py
 [4]: src/ch04_ptypes/tests/test_p04_07.py
-[5]: src/ch04_ptypes/p05_12.py
-[6]: src/ch04_ptypes/tests/test_p05_12.py
-[7]: src/ch04_ptypes/p06_02.py
-[8]: src/ch04_ptypes/tests/test_p06_02.py
+[5]: src/ch04_arrays/p05_12.py
+[6]: src/ch04_arrays/tests/test_p05_12.py
+[7]: src/ch04_strings/p06_02.py
+[8]: src/ch04_strings/tests/test_p06_02.py
+[9]: src/ch04_arrays/p05_11.py
+[10]: src/ch04_arrays/tests/test_p05_11.py
