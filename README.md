@@ -44,8 +44,9 @@ ptw
 
 ## Linked Lists
 
-| Problem | Test  |
-| ------- | :---: |
+| Problem              |    Test     |
+| -------------------- | :---------: |
+| [Reverse a List][11] | [tests][12] |
 
 ## Stacks and Queues
 
@@ -152,3 +153,5 @@ ptw
 [8]: src/ch04_strings/tests/test_p06_02.py
 [9]: src/ch04_arrays/p05_11.py
 [10]: src/ch04_arrays/tests/test_p05_11.py
+[11]: src/ch07_linkedlists/p07_02.py
+[12]: src/ch07_linkedlists/tests/test_p07_02.py
